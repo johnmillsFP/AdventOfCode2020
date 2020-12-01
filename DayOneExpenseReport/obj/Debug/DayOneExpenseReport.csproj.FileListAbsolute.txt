@@ -1,0 +1,6 @@
+C:\Users\JohnMills\Source\Repos\AdventOfCode2020\DayOneExpenseReport\bin\Debug\DayOneExpenseReport.exe.config
+C:\Users\JohnMills\Source\Repos\AdventOfCode2020\DayOneExpenseReport\bin\Debug\DayOneExpenseReport.exe
+C:\Users\JohnMills\Source\Repos\AdventOfCode2020\DayOneExpenseReport\bin\Debug\DayOneExpenseReport.pdb
+C:\Users\JohnMills\Source\Repos\AdventOfCode2020\DayOneExpenseReport\obj\Debug\DayOneExpenseReport.csproj.CoreCompileInputs.cache
+C:\Users\JohnMills\Source\Repos\AdventOfCode2020\DayOneExpenseReport\obj\Debug\DayOneExpenseReport.exe
+C:\Users\JohnMills\Source\Repos\AdventOfCode2020\DayOneExpenseReport\obj\Debug\DayOneExpenseReport.pdb
